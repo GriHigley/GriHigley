@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Griffins's GitHub Banner](./assets/GilTW.png)
+![Griffins's GitHub Banner](./assets/GithubBanner.png)
 
 
 
